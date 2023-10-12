@@ -1,0 +1,6 @@
+prime.py
+setup.py
+PrimeShor.egg-info/PKG-INFO
+PrimeShor.egg-info/SOURCES.txt
+PrimeShor.egg-info/dependency_links.txt
+PrimeShor.egg-info/top_level.txt
