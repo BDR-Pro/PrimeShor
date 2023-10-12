@@ -5,3 +5,14 @@ PrimeShor to find factors of a number
 
 
 **isPrime** return true if it is a prime false if it not
+
+
+```
+>>> import prime
+>>> 
+>>> print(prime.isPrime(5))
+True
+>>> print(prime.factorize(64))
+(2, 32)
+>>> 
+```
