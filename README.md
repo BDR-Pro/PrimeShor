@@ -16,3 +16,12 @@ True
 (2, 32)
 >>> 
 ```
+
+**Installation**
+
+```
+git clone https://github.com/BDR-Pro/PrimeShor
+
+pip install PrimeShor/dist/PrimeShor-1.0.0-py3-none-any.whl
+
+```
